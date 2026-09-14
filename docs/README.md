@@ -11,4 +11,4 @@ https://cheongnicole.github.io/DS6-Module-2-Project-Group-6/index.html
 https://cheongnicole.github.io/DS6-Module-2-Project-Group-6/elementary_report.html
 
 **Business Hypothesis**  
-https://cheongnicole.github.io/DS6-Module-2-Project-Group-6/business_hypothesis.md
+https://github.com/cheongnicole/DS6-Module-2-Project-Group-6/blob/main/docs/business_hypothesis.md
