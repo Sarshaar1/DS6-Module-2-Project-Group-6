@@ -13,5 +13,5 @@ https://cheongnicole.github.io/DS6-Module-2-Project-Group-6/elementary_report.ht
 **Business Hypothesis**  
 https://github.com/cheongnicole/DS6-Module-2-Project-Group-6/blob/main/docs/business_hypothesis.md
 
-[**Presentation Slides**]  
-(https://docs.google.com/presentation/d/e/2PACX-1vTYn-rFeZDVOCyWb8oMV6EeNpf20IOXkdsxhYkHP8Z5ix_Upq8gb-1O6pFnEYqLWw/pub?start=false&loop=false&delayms=3000)
+**Presentation Slides**  
+https://docs.google.com/presentation/d/e/2PACX-1vTYn-rFeZDVOCyWb8oMV6EeNpf20IOXkdsxhYkHP8Z5ix_Upq8gb-1O6pFnEYqLWw/pub?start=false&loop=false&delayms=3000
